@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Breno Carvalho&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p><strong>Data Scientist/Analyst</strong><br/><strong>Working:</strong> Department of Health of Pernambuco.<br/><strong>Languages and Tools:</strong> SQL, Python and Power BI </p>
+<p><strong>Data Scientist/Analyst</strong><br/><strong>Working:</strong> Department of Health of Pernambuco.<br/><strong>Languages and Tools:</strong> SQL, Python, Power BI and Excel </p>
 
 
